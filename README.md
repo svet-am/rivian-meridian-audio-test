@@ -42,7 +42,8 @@ This section details the conditions & equipment used in the testing.
 ## Audio Interface
 [Focusrite Scarlett 2i2 2nd Gen](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
 * monoaural recording, channel 1<br>
-<img src="images/scarlett_2i2_specifications.png" alt="Scarlett 2i2 Specifications" width="200"/>
+<img src="images/scarlett_2i2_specifications.png" alt="Scarlett 2i2 Specifications" width="200"/><br>
+<img src="images/scarlett_2i2_frequency_response.png" alt="Scarlett 2i2 Frequency Response" width="200"/>
 
 ## Microphone
 [Audio Technica AT2035](https://www.audio-technica.com/en-us/at2035) Cardioid Condenser Microphone<br>
