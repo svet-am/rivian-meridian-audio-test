@@ -1,12 +1,12 @@
 # rivian-meridian-audio-test
 
 # INTRODUCTION
-This Rivian R1T and R1S electrical adventure vehicles feature a state-of-the-art audio system from Meridian Audio called [Rivian Elevation](https://www.meridian-audio.com/partners/rivian/). The full product sheet can be seen [here](https://www.meridian-audio.com/media/8d9e24b1af5e762/rivian-r1t-meridian-at-a-glance.pdf).
+This Rivian R1T and R1S electrical adventure vehicles feature a state-of-the-art audio system from Meridian Audio called [Rivian Elevation](https://www.meridian-audio.com/partners/rivian/). The full product sheet for the Rivian R1T audio system can be seen [here](https://www.meridian-audio.com/media/8d9e24b1af5e762/rivian-r1t-meridian-at-a-glance.pdf).
 
 While the specifications of this audio system are impressive, Rivian limits the audio input sources to the following:
 * FM Radio
 * Spotify (in-built application)
-* Tune-In Radion (in-built application)
+* Tune-In Radio (in-built application)
 * Bluetooth Streaming Audio
 
 At present (October 2022), the Rivian Elevation system does *NOT* support local audio playback from sources such as MP3, AAC, WAV, or FLAC from a local USB source.
@@ -27,32 +27,29 @@ Reference Spotify Playlist: https://open.spotify.com/playlist/6XqitHZADq009M9vvk
 This section details the conditions & equipment used in the testing.
 
 ## Vehicle
-[2022 Rivian R1S Launch Edition](https://rivian.com/r1s) (Meridian Audio)
+[2022 Rivian R1S Launch Edition](https://rivian.com/r1s) (Rivian Elevation Audio)
 - Vehicle Firmware 2022.35.03
 - Equalizer Set to Default (flat)
-- Master Volume Level: 20
+- Master Volume Level: 20 (approx -6 dB standardized volume level at microphone)
 - Microphone placement on-dash above center display
 - Vehicle Third Row Folded Down
 
 ## Capture Computer
-Microsoft Surface Book 3 (Microsoft Windows 11, 22H2)
+[Microsoft Surface Book 3](https://www.microsoft.com/en-us/d/surface-book-3/8xbw9g3z71f1) (Microsoft Windows 11, 22H2)
 
 <img src="images/surface_book_id_information.png" alt="MS Surface Book ID Information" width="200"/>
 
 ## Audio Interface
 [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
-* monoaural recording, channel 1
-
+* monoaural recording, channel 1<br>
 <img src="images/scarlett_2i2_specifications.png" alt="Scarlett 2i2 Specifications" width="200"/>
 
 ## Microphone
-Audio Technica AT2035
-
+[Audio Technica AT2035](https://www.audio-technica.com/en-us/at2035) Cardiod Condensor Microphone<br>
 <img src="images/at2035_freq.jpg" alt="AT2035 Frequency Response" width="200"/>
 
 ## Audio Recording Software
-Audacity v2.4.2 (Microsoft Windows)
-
+Audacity v2.4.2 (Microsoft Windows)<br>
 <img src="images/audacity_version.png" alt="Audacity Version" width="200"/>
 
 # METHODOLOGY
