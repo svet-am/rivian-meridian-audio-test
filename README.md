@@ -66,6 +66,13 @@ The primary aim of this testing is to determine the actual capabilities of the R
 ## In-Built Spotify App
 
 ## Bluetooth Recording
+Bluetooth streaming audio connections rely on a piece of software called a "codec."  The word codec comes from the portmanteau of "code/decode" and relays information about the relative quality of the audio that can be used across a given Bluetooth connection.  All devices will have a set of codecs that they support and both the source (the device playing the content) and the sink (the device rendering the content) must negotiate at connection a common codec that they both support.  It is possible for a rendering device to support a very high-fidelity codec but be unable to use it if the source device does not *also* support using that same codec for transmitting the sound.
+
+For a full and thorough treatment of the concept of the various codecs in use today, please see [this article](https://www.soundguys.com/understanding-bluetooth-codecs-15352/).
+
+In short, the most common codec in use in the market today is the AAC codec and while it is capable of rendering high quality lossy audio, its performance varies wildly from device to device (particularly among Android mobile phones).
+
+For context, this project catalogs the Bluetooth codec that was negotiated by the device under test and declares it in the results table below.
 
 # RESULTS
 
