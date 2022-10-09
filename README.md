@@ -14,8 +14,14 @@ At present (October 2022), the Rivian Elevation system does *NOT* support local 
 This project catalogs and presents the results of real-world audio testing using the currently available sources to determine if they make full use of the capabilities of the Rivian Elevation audio system. 
 
 # AUDIO SAMPLES
-Original Spotify Playlist: https://open.spotify.com/playlist/6XqitHZADq009M9vvkdxmN?si=c710434fffd64c5c
+The audio samples used in the testing were specifically chosen because they are all available on Spotify, regardless of the playback platform (eg, in-built application or on a mobile telephone).  This allows the testing to proceed by simply recording the playback of the entire Spotify playlist on a new device.
 
+The audio samples include the following:
+* A collection of noise (white/pink/brown) test samples
+* A collection of frequency response samples that are *roughly* logarithmic across the human hearing spectrum
+* A collection of real-world song samples from various genres
+
+Reference Spotify Playlist: https://open.spotify.com/playlist/6XqitHZADq009M9vvkdxmN?si=c710434fffd64c5c
 
 # EQUIPMENT
 ## Vehicle
