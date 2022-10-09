@@ -26,6 +26,7 @@ Audio Technica AT2035
 
 ## Audio Recording Software
 Audacity v2.4.2 (Microsoft Windows)
+![Audacity Version](images/audacity_version.png)
 
 # METHODOLOGY
 
