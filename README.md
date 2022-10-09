@@ -57,4 +57,11 @@ Audacity v2.4.2 (Microsoft Windows)
 
 # METHODOLOGY
 
+## Vehicle Cabing Room Ton
+
+## Reference White Noise 
+
+## In-Built Spotify App
+
+## Bluetooth Recording
 # RESULTS
