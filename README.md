@@ -73,7 +73,7 @@ Audacity v2.4.2 (Microsoft Windows)
 ## Audio Samples
 | Sample | In-Built Spotify | Google Pixel 6 |
 | :---:  | :---:            | :---:          |
-| 50Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| 50Hz Test Tone | <img src="samples/rivian-r1s-native/50_hz.png" alt="50Hz Test Tone" width="100"/><br>[reference waveform](samples/rivian-r1s-native/50_hz.wav) | <img src="samples/rivian-r1s-google-pixel-spotify/50_hz.png" alt="50Hz Test Tone" width="100"/><br>[reference waveform](samples/rivian-r1s-google-pixel-spotify/50_hz.wav) |
 | 100Hz Test Tone | [reference waveform]() | [reference waveform]() |
 | 400Hz Test Tone | [reference waveform]() | [reference waveform]() |
 | 1000Hz Test Tone | [reference waveform]() | [reference waveform]() |
