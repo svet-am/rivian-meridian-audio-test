@@ -57,7 +57,7 @@ Audacity v2.4.2 (Microsoft Windows)
 
 # METHODOLOGY
 
-## Vehicle Cabing Room Tone
+## Vehicle Cabin Room Tone
 
 ## Reference White Noise 
 
