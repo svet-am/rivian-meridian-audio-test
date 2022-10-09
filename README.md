@@ -55,6 +55,15 @@ Audacity v2.4.2 (Microsoft Windows)<br>
 # METHODOLOGY
 
 ## Vehicle Cabin Room Tone
+All recording spaces have some unavoidable ambient noise.  This can be the ambient sound of an air conditioning unit, standard acoustic echoes in the room, or other ambient noise.  Recording and recognizing the room tone allows the frequency response seen in other samples to account for the natural state of the room in which the sample was recorded.
+
+For this analysis, the Rivian air conditioning unit was disabled but the alternating current (AC) outlets were activated to power the laptop that recorded the samples.  When the AC units are active there is a natural hum (potentially a transformer) that exists in the cabin.
+
+As seen here, the Rivian R1S room tone with the AC outlets activated generates a low frequency output that is seen in the low end of all other samples.  When analyzing the frequency response of the system, take into account the impact of this room tone - particularly when analyzing the pure tone (eg, single-frequency) samples.
+
+<img src="samples/rivian-r1s-control-audio/r1s_room_tone.png" alt="400Hz Test Tone" width="100"/><br>
+[reference waveform](samples/rivian-r1s-control-audio/r1s_room_tone.wav)
+
 
 ## Reference White Noise 
 
