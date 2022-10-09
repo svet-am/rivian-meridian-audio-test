@@ -64,4 +64,30 @@ Audacity v2.4.2 (Microsoft Windows)
 ## In-Built Spotify App
 
 ## Bluetooth Recording
+
 # RESULTS
+| Sample | In-Built Spotify | Google Pixel 6 |
+| :---:  | :---:            | :---:          |
+| Room Tone | [reference waveform]() | [reference waveform]() |
+| Pure White Noise (FM Radio) | [reference waveform]() | [reference waveform]() |
+| 50Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| 100Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| 400Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| 1000Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| 5000Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| 10000Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| 15000Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| 18000Hz Test Tone | [reference waveform]() | [reference waveform]() |
+| White Noise Test Tone | [reference waveform]() | [reference waveform]() |
+| Pink Noise Test Tone | [reference waveform]() | [reference waveform]() |
+| Brown Noise Test Tone | [reference waveform]() | [reference waveform]() |
+| Simon & Garfunkel - I am a  Rock | [reference waveform]() | [reference waveform]() |
+| Vienna Teng - Never Look Away | [reference waveform]() | [reference waveform]() |
+| Nirvana - Heart-Shaped Box | [reference waveform]() | [reference waveform]() |
+| Symphony X - The Odyssey | [reference waveform]() | [reference waveform]() |
+| Bill Withers - City of the Angels | [reference waveform]() | [reference waveform]() |
+| Tupac - California Love | [reference waveform]() | [reference waveform]() |
+| Gravity Kills  - Guilty | [reference waveform]() | [reference waveform]() |
+| Orbital - The Box, Part 2 | [reference waveform]() | [reference waveform]() |
+| W.A. Mozart - Symphony 40 in G Minor | [reference waveform]() | [reference waveform]() |
+| Miles Davis - Green in Blue | [reference waveform]() | [reference waveform]() |
