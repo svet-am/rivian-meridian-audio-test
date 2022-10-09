@@ -32,6 +32,7 @@ Master Volume Level: 20
 
 ## Capture Computer
 Microsoft Surface Book 3 (Microsoft Windows 11, 22H2)
+
 <img src="images/surface_book_id_information.png" alt="MS Surface Book ID Information" width="200"/>
 
 ## Audio Interface
@@ -39,10 +40,12 @@ Scarlett 2i2 (monoaural recording, channel 1)
 
 ## Microphone
 Audio Technica AT2035
+
 <img src="images/at2035_freq.jpg" alt="AT2035 Frequency Response" width="200"/>
 
 ## Audio Recording Software
 Audacity v2.4.2 (Microsoft Windows)
+
 <img src="images/audacity_version.png" alt="Audacity Version" width="200"/>
 
 # METHODOLOGY
