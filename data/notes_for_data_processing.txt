@@ -1,0 +1,11 @@
+Test Tones
+===========
+create a 2 second sample of the test tone
+
+Music Samples
+==============
+create a 50 second sample from the first 60 seconds of the music track.  Ideally use seconds 0->50
+
+Frequency Response Screenshot
+===============================
+Bounding box of 868x700 pixels - tightly cropped around the data field
