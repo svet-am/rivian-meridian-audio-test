@@ -20,7 +20,8 @@ Microsoft Surface Book 3 (Microsoft Windows 11, 22H2)
 Scarlett 2i2 (monoaural recording, channel 1)
 
 ## Microphone
-Audio Technica
+Audio Technica AT2035
+![AT2035 Frequency Response)(images/at2035_freq.jpg)
 
 ## Audio Recording Software
 Audacity v2.4.2 (Microsoft Windows)
