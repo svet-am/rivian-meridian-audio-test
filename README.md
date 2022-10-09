@@ -78,7 +78,7 @@ The Rivian R1S room tone with the AC outlets activated generates a low frequency
 ## Pure White Noise (FM Radio)
 The Rivian R1S white noise (FM radio static) exhibits a sharp drop in frequency response at approximately 16kHz.  As this is the most "pure" form of frequency generation the system is currently capable of it is reasonable to expect that even lossless sources with frequency content well above 16kHz will not be rendered by the Rivian Elevation system.
 
-<img src="samples/rivian-r1s-control-audio/r1s_white_noise_radio.png" alt="Room Tone" width="100"/><br>
+<img src="samples/rivian-r1s-control-audio/r1s_white_noise_radio.png" alt="FM Radio White Noise" width="100"/><br>
 [reference waveform](samples/rivian-r1s-control-audio/r1s_white_noise_radio.wav)
  
 ## Audio Samples
