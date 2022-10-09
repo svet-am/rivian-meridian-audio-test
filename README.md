@@ -40,9 +40,11 @@ This section details the conditions & equipment used in the testing.
 <img src="images/surface_book_id_information.png" alt="MS Surface Book ID Information" width="200"/>
 
 ## Audio Interface
-[Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
+[Focusrite Scarlett 2i2 2nd Gen](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
 * monoaural recording, channel 1<br>
 <img src="images/scarlett_2i2_specifications.png" alt="Scarlett 2i2 Specifications" width="200"/>
+
+*NOTE* Recent investigation has unveiled that the Scarlett 2i2 2nd Gen may not be accurately representing the frequency response of the Rivian Elevation system despite the user guide claiming support up to 2kHz
 
 ## Microphone
 [Audio Technica AT2035](https://www.audio-technica.com/en-us/at2035) Cardioid Condenser Microphone<br>
@@ -57,25 +59,29 @@ Audacity v2.4.2 (Microsoft Windows)<br>
 ## Vehicle Cabin Room Tone
 All recording spaces have some unavoidable ambient noise.  This can be the ambient sound of an air conditioning unit, standard acoustic echoes in the room, or other ambient noise.  Recording and recognizing the room tone allows the frequency response seen in other samples to account for the natural state of the room in which the sample was recorded.
 
-For this analysis, the Rivian air conditioning unit was disabled but the alternating current (AC) outlets were activated to power the laptop that recorded the samples.  When the AC units are active there is a natural hum (potentially a transformer) that exists in the cabin.
-
-As seen here, the Rivian R1S room tone with the AC outlets activated generates a low frequency output that is seen in the low end of all other samples.  When analyzing the frequency response of the system, take into account the impact of this room tone - particularly when analyzing the pure tone (eg, single-frequency) samples.
-
-<img src="samples/rivian-r1s-control-audio/r1s_room_tone.png" alt="400Hz Test Tone" width="100"/><br>
-[reference waveform](samples/rivian-r1s-control-audio/r1s_room_tone.wav)
-
+For this analysis, the Rivian air conditioning unit was disabled but the alternating current (AC) outlets were activated to power the laptop that recorded the samples.  When the AC units are active there is a natural hum (potentially a transformer) that exists in the cabin.  The same recording configuration was used to record the room tone sample as was used for all other sample recording.
 
 ## Reference White Noise 
+The primary aim of this testing is to determine the actual capabilities of the Rivian Elevation system and then compare that to the provided streaming audio sources such as the in-built Spotify application as well as Bluetooth-based streaming from a mobile phone.  In order to start such a comparison it is important to find some kind of *intrinsic* way of producing wide-frequency output from the Rivian Elevation system.  Given the limited input options the only available way to produce "pure" output is to generate white noise from the FM radio by using a non-broadcasting FM frequency.
 
 ## In-Built Spotify App
 
 ## Bluetooth Recording
 
 # RESULTS
+
 ## Room Tone
+The Rivian R1S room tone with the AC outlets activated generates a low frequency output that is seen in the low end of all other samples.  When analyzing the frequency response of the system, take into account the impact of this room tone - particularly when analyzing the pure tone (eg, single-frequency) samples.
+
+<img src="samples/rivian-r1s-control-audio/r1s_room_tone.png" alt="Room Tone" width="100"/><br>
+[reference waveform](samples/rivian-r1s-control-audio/r1s_room_tone.wav)
 
 ## Pure White Noise (FM Radio)
+The Rivian R1S white noise (FM radio static) exhibits a sharp drop in frequency response at approximately 16kHz.  As this is the most "pure" form of frequency generation the system is currently capable of it is reasonable to expect that even lossless sources with frequency content well above 16kHz will not be rendered by the Rivian Elevation system.
 
+<img src="samples/rivian-r1s-control-audio/r1s_white_noise_radio.png" alt="Room Tone" width="100"/><br>
+[reference waveform](samples/rivian-r1s-control-audio/r1s_white_noise_radio.wav)
+ 
 ## Audio Samples
 | Sample | In-Built Spotify | Google Pixel 6<br>(AAC Codec) |
 | :---:  | :---:            | :---:          |
