@@ -45,7 +45,7 @@ This section details the conditions & equipment used in the testing.
 <img src="images/scarlett_2i2_specifications.png" alt="Scarlett 2i2 Specifications" width="200"/>
 
 ## Microphone
-[Audio Technica AT2035](https://www.audio-technica.com/en-us/at2035) Cardiod Condensor Microphone<br>
+[Audio Technica AT2035](https://www.audio-technica.com/en-us/at2035) Cardioid Condenser Microphone<br>
 <img src="images/at2035_freq.jpg" alt="AT2035 Frequency Response" width="200"/>
 
 ## Audio Recording Software
