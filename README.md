@@ -112,3 +112,8 @@ The Rivian R1S white noise (FM radio static) exhibits a sharp drop in frequency 
 | Orbital - The Box, Part 2<br>(Techno) | <img src="samples/rivian-r1s-native/the_box_pt_2.png" alt="The Box, Pt2 Frequency Analysis" width="100"/><br>[reference waveform](samples/rivian-r1s-native/the_box_pt_2.wav) | <img src="samples/rivian-r1s-google-pixel-spotify/the_box_pt_2.png" alt="The Box, Pt2 Frequency Analysis" width="100"/><br>[reference waveform](samples/rivian-r1s-google-pixel-spotify/the_box_pt_2.wav) |
 | W.A. Mozart - Symphony 40 in G Minor<br>(Classical) | <img src="samples/rivian-r1s-native/mozart_symphony_40_g_minor.png" alt="Mozart Symphony 40 Frequency Analysis" width="100"/><br>[reference waveform](samples/rivian-r1s-native/mozart_symphony_40_g_minor.wav) | <img src="samples/rivian-r1s-google-pixel-spotify/mozart_symphony_40_g_minor.png" alt="Mozart Symphony 40 Frequency Analysis" width="100"/><br>[reference waveform](samples/rivian-r1s-google-pixel-spotify/mozart_symphony_40_g_minor.wav) |
 | Miles Davis - Green in Blue<br>(Jazz) | <img src="samples/rivian-r1s-native/green_in_blue.png" alt="Green in Blue Frequency Analysis" width="100"/><br>[reference waveform](samples/rivian-r1s-native/green_in_blue.wav) | <img src="samples/rivian-r1s-google-pixel-spotify/green_in_blue.png" alt="Green in Blue Frequency Analysis" width="100"/><br>[reference waveform](samples/rivian-r1s-google-pixel-spotify/green_in_blue.wav) |
+
+# BLUETOOTH CODEC DECLARATIONS
+This section presents screen captures of the Bluetooth settings screen on the various devices under test
+
+## Google Pixel 6
