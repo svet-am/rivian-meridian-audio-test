@@ -25,7 +25,7 @@ Reference Spotify Playlist: https://open.spotify.com/playlist/6XqitHZADq009M9vvk
 
 # EQUIPMENT
 ## Vehicle
-2022 Rivian R1S Launch Edition (Meridian Audio)
+[2022 Rivian R1S Launch Edition](https://rivian.com/r1s) (Meridian Audio)
 Firmware 2022.35.03
 Equalizer Set to Default (flat)
 Master Volume Level: 20
