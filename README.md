@@ -70,6 +70,7 @@ Audacity v2.4.2 (Microsoft Windows)
 
 ## Pure White Noise (FM Radio)
 
+## Audio Samples
 | Sample | In-Built Spotify | Google Pixel 6 |
 | :---:  | :---:            | :---:          |
 | 50Hz Test Tone | [reference waveform]() | [reference waveform]() |
