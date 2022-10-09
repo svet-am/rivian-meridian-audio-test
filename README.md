@@ -27,7 +27,7 @@ Reference Spotify Playlist: https://open.spotify.com/playlist/6XqitHZADq009M9vvk
 This section details the conditions & equipment used in the testing.
 
 ## Vehicle
-* [2022 Rivian R1S Launch Edition](https://rivian.com/r1s) (Meridian Audio)
+[2022 Rivian R1S Launch Edition](https://rivian.com/r1s) (Meridian Audio)
 - Vehicle Firmware 2022.35.03
 - Equalizer Set to Default (flat)
 - Master Volume Level: 20
@@ -40,7 +40,10 @@ Microsoft Surface Book 3 (Microsoft Windows 11, 22H2)
 <img src="images/surface_book_id_information.png" alt="MS Surface Book ID Information" width="200"/>
 
 ## Audio Interface
-Scarlett 2i2 (monoaural recording, channel 1)
+[Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
+* monoaural recording, channel 1
+
+<img src="images/scarlett_2i2_specifications.png" alt="Scarlett 2i2 Specifications" width="200"/>
 
 ## Microphone
 Audio Technica AT2035
