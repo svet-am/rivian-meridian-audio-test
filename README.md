@@ -21,12 +21,11 @@ Scarlett 2i2 (monoaural recording, channel 1)
 
 ## Microphone
 Audio Technica AT2035
-
-![AT2035 Frequency Response](images/at2035_freq.jpg)
+<img src="images/at2035_freq.jpg" alt="AT2035 Frequency Response" width="200"/>
 
 ## Audio Recording Software
 Audacity v2.4.2 (Microsoft Windows)
-![Audacity Version](images/audacity_version.png)
+<img src="images/audacity_version.png" alt="Audacity Version" width="200"/>
 
 # METHODOLOGY
 
