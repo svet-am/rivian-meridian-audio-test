@@ -32,6 +32,7 @@ Master Volume Level: 20
 
 ## Capture Computer
 Microsoft Surface Book 3 (Microsoft Windows 11, 22H2)
+<img src="images/surface_book_id_information.png" alt="MS Surface Book ID Information" width="200"/>
 
 ## Audio Interface
 Scarlett 2i2 (monoaural recording, channel 1)
