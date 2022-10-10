@@ -54,6 +54,27 @@ Audacity v2.4.2 (Microsoft Windows)<br>
 <img src="images/audacity_version.png" alt="Audacity Version" width="200"/>
 
 # METHODOLOGY
+The general methodology for collecting samples is straightforward.  
+
+The vehicle was located in a home garage to reduce the influence of any public atmospheric noise.  The recording micrphone is placed on the center of the vehicle dashboard such that the plane of the cardiod reception field is normal/perpendicular to the output of the speakers (Eg, it is laying on its side).  This prevents overshoot/aliasing of the audio for most sources.
+
+The vehicle is set to a volume level of 20 on the in-dash volume control.
+
+The gain on the USB audio interface is set such that the output of a representative audio source (white noise) corresponds to an average of -6dB level in the recording/monitoring software.
+
+The AC outlets of the vehicle are activated to power the recording computer.  The vehicle is placed in "show and tell mode" so that the center display will not turn off when the cabin door is closed without an occupant.
+
+The recording computer is placed in the cabin on floor of the driver side.
+
+A recording is started in the recording software and then the cabin doors are closed.
+
+From outside the vehicle the Spotify playlist is recorded as one single audio sample with "dead air" / silence placed in between each sample.  This is accomplished by momentarily pausing playback before proceeding to the next sample.  For test tone samples, ten (10) seconds of each sample is recorded.  For genre music samples, the first sixty (60) seconds of each song is recorded.
+
+After collecting all samples, the cabin door is opened and the audio recording is stopped.
+
+For post processing, each sample is separated into a separate track using the audio recording software.  Then, each test tone sample is reduced to a two (2) second sample that contains only the test tone.  For the genre music samples, each is reduced to only the first fifty (50) seconds of each song minus any silence surrounding the music.  The samples are prepared in this way to ensure that no environmental atmospheric noise is captured in the sample.
+
+After post processing, the spectrum analysis plot is prepared in the audio recording software and a screenshot taken.
 
 ## Vehicle Cabin Room Tone
 All recording spaces have some unavoidable ambient noise.  This can be the ambient sound of an air conditioning unit, standard acoustic echoes in the room, or other ambient noise.  Recording and recognizing the room tone allows the frequency response seen in other samples to account for the natural state of the room in which the sample was recorded.
