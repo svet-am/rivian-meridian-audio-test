@@ -117,3 +117,7 @@ The Rivian R1S white noise (FM radio static) exhibits a sharp drop in frequency 
 This section presents screen captures of the Bluetooth settings screen on the various devices under test
 
 ## Google Pixel 6
+<img src="images/bluetooth-settings/google-pixel-6/google-pixel-6-1.png" alt="Room Tone" width="100"/>
+<img src="images/bluetooth-settings/google-pixel-6/google-pixel-6-2.png" alt="Room Tone" width="100"/>
+
+
