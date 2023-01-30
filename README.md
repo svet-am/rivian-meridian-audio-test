@@ -110,7 +110,7 @@ The Rivian R1S white noise (FM radio static) exhibits a sharp drop in frequency 
 [reference waveform](samples/rivian-r1s-control-audio/r1s_white_noise_radio.wav)
 
 ## Audio Playlists
-Spotify:  https://open.spotify.com/playlist/6XqitHZADq009M9vvkdxmN?si=0a64c6c3f39f4b7a
+Spotify:  https://open.spotify.com/playlist/6XqitHZADq009M9vvkdxmN?si=0a64c6c3f39f4b7a <br>
 Tidal: https://tidal.com/browse/playlist/82977025-2b75-4170-b9d4-f94ff4bdc3d4
 
 ## Audio Samples
