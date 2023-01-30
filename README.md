@@ -105,9 +105,10 @@ The Rivian R1S room tone with the AC outlets activated generates a low frequency
 
 ## White, Pink, and Brown Noise
 White, pink, and brown noise are standard reference noise patterns that have the following audio characteristics:
-- WHITE NOISE - a noise sample containing random frequency genmeration but at equal intensity for each frequency
+- WHITE NOISE - a noise sample containing random frequency content but at equal intensity for each frequency
 - PINK NOISE - a noise sample containing equal intensity in each octave
 - BROWN NOISE - a noise sample containing random frequencies of white noise. The pattern of a brown noise following a Brownian motion generation pattern.
+
 ## Pure White Noise (FM Radio)
 The Rivian R1S white noise (FM radio static) exhibits a sharp drop in frequency response at approximately 16kHz.  As this is the most "pure" form of frequency generation the system is currently capable of it is reasonable to expect that even lossless sources with frequency content well above 16kHz will not be rendered by the Rivian Elevation system.
 
